@@ -1,0 +1,70 @@
+itemset,length,support
+"('whole milk',)",1,2363
+"('other vegetables',)",1,1827
+"('rolls/buns',)",1,1646
+"('soda',)",1,1453
+"('yogurt',)",1,1285
+"('root vegetables',)",1,1041
+"('tropical fruit',)",1,1014
+"('bottled water',)",1,908
+"('sausage',)",1,903
+"('citrus fruit',)",1,795
+"('pastry',)",1,774
+"('pip fruit',)",1,734
+"('shopping bags',)",1,712
+"('canned beer',)",1,702
+"('bottled beer',)",1,678
+"('whipped/sour cream',)",1,654
+"('newspapers',)",1,582
+"('frankfurter',)",1,565
+"('brown bread',)",1,563
+"('domestic eggs',)",1,555
+"('pork',)",1,555
+"('butter',)",1,527
+"('fruit/vegetable juice',)",1,509
+"('beef',)",1,508
+"('curd',)",1,504
+"('margarine',)",1,482
+"('coffee',)",1,473
+"('frozen vegetables',)",1,419
+"('chicken',)",1,417
+"('white bread',)",1,359
+"('cream cheese ',)",1,354
+"('chocolate',)",1,353
+"('dessert',)",1,353
+"('napkins',)",1,331
+"('hamburger meat',)",1,327
+"('berries',)",1,326
+"('UHT-milk',)",1,320
+"('onions',)",1,303
+"('salty snack',)",1,281
+"('waffles',)",1,277
+"('long life bakery product',)",1,268
+"('sugar',)",1,265
+"('butter milk',)",1,263
+"('ham',)",1,256
+"('meat',)",1,252
+"('frozen meals',)",1,251
+"('beverages',)",1,248
+"('specialty chocolate',)",1,239
+"('misc. beverages',)",1,236
+"('ice cream',)",1,227
+"('oil',)",1,223
+"('other vegetables', 'whole milk')",2,222
+"('hard cheese',)",1,220
+"('grapes',)",1,216
+"('candy',)",1,215
+"('sliced cheese',)",1,210
+"('rolls/buns', 'whole milk')",2,209
+"('specialty bar',)",1,209
+"('hygiene articles',)",1,205
+"('chewing gum',)",1,180
+"('cat food',)",1,177
+"('white wine',)",1,175
+"('soda', 'whole milk')",2,174
+"('whole milk', 'yogurt')",2,167
+"('other vegetables', 'rolls/buns')",2,158
+"('herbs',)",1,158
+"('red/blush wine',)",1,157
+"('processed cheese',)",1,152
+"('soft cheese',)",1,150
