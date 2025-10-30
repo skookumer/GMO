@@ -10,7 +10,7 @@ import time
 import tracemalloc
 import matplotlib.pyplot as plt
 
-from original_testbed import xclat, xxclat, xclat_broken, gen_tidset, gen_diffset, read_csv, oh_encode
+from original_testbed import xclat, xclat_broken, gen_tidset, gen_diffset, read_csv, oh_encode
 
 data = read_csv([i for i in range(13)], "Member_number")
 diffset = gen_diffset(data)
@@ -35,7 +35,7 @@ all_results = {
 }
 
 # Test different support thresholds
-for n in range(200, 30, -10):
+for n in range(400, 300, -10):
     support = n / N
     print(f"\n{'='*50}")
     print(f"Testing with minSup = {n} ({support:.4f})")
